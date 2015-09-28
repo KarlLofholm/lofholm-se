@@ -1,0 +1,63 @@
+//
+// project-list.less
+// --------------------------------------------------
+.project-list {
+  .project {
+    margin: 100px 0 200px;
+    text-align: center;
+  }
+  .project .img-link {
+    position: relative;
+    display: block;
+    &:before,
+    &:after {
+      content: "";
+      display: block;
+      position: absolute; 
+    }
+    &:before {
+      width: 100%;
+      top: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0);
+      transition: background-color 0.3s;
+    }
+    &:after {
+      content: "➤";
+      width: 100px;
+      height: 100px;
+      top: 50%;
+      margin-top: -50px;
+      left: 50%;
+      margin-left: -50px;
+      color: #fff;
+      font-size: 60px;
+      transition: all 0.3s;
+      opacity: 0;
+      transform: translate3d(-25px, 0, 0);
+    }
+    &:hover {
+      &:before {
+        background-color: rgba(0, 0, 0, .4);
+      }
+      &:after {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+      }
+    }
+  }
+  .project h2 {
+    margin-top: 20px;
+  }
+  .project h2 a {
+    color: @black;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  .project p {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+}

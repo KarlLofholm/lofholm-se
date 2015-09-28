@@ -1,0 +1,24 @@
+//
+// base.less
+// --------------------------------------------------
+
+* {
+	box-sizing: border-box; 
+}
+
+html, button, input, select, textarea { //TODO :: evaluate if -webkit-font-smoothing should be used
+    color: @black;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.6;
+    overflow-y: scroll;
+}
+
+body {
+    font-family: @font-family-open-sans;
+	font-size: 16px;
+    .clearfix()
+}

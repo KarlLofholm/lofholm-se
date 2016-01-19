@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19102",
 "files": {
 	"\/build\/about.html": {
 		"fileType": 8192,
@@ -38,456 +38,456 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/build\/images\/Evitbe\/0.jpg": {
+	"\/build\/images\/evitbe\/0.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 104640,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/0.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/0.jpg",
+		"initialSize": 131434,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/0.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/0@2x.jpg": {
+	"\/build\/images\/evitbe\/0@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 303272,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/0@2x.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/0@2x.jpg",
+		"initialSize": 323678,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/0@2x.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/0@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/1.jpg": {
+	"\/build\/images\/evitbe\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 104250,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/1.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/1.jpg",
+		"initialSize": 169909,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/1.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/10.jpg": {
+	"\/build\/images\/evitbe\/10.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 184386,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/10.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/10.jpg",
+		"initialSize": 183598,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/10.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/2.jpg": {
+	"\/build\/images\/evitbe\/2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 258359,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/2.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/2.jpg",
+		"initialSize": 232492,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/2.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/3.jpg": {
+	"\/build\/images\/evitbe\/3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 331689,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/3.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/3.jpg",
+		"initialSize": 305860,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/3.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/4.jpg": {
+	"\/build\/images\/evitbe\/4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 244069,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/4.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/4.jpg",
+		"initialSize": 218118,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/4.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/5.jpg": {
+	"\/build\/images\/evitbe\/5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 334475,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/5.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/5.jpg",
+		"initialSize": 308628,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/5.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/6.jpg": {
+	"\/build\/images\/evitbe\/6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 439531,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/6.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/6.jpg",
+		"initialSize": 413724,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/6.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/7.jpg": {
+	"\/build\/images\/evitbe\/7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 243455,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/7.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/7.jpg",
+		"initialSize": 242600,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/7.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/8.jpg": {
+	"\/build\/images\/evitbe\/8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 219799,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/8.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/8.jpg",
+		"initialSize": 218922,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/8.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/build\/images\/Evitbe\/9.jpg": {
+	"\/build\/images\/evitbe\/9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/build\/images\/Evitbe\/9.jpg",
-		"outputAbbreviatedPath": "\/build\/images\/Evitbe\/9.jpg",
+		"initialSize": 235539,
+		"inputAbbreviatedPath": "\/build\/images\/evitbe\/9.jpg",
+		"outputAbbreviatedPath": "\/build\/images\/evitbe\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/karl-lofholm.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 74836,
+		"initialSize": 72616,
 		"inputAbbreviatedPath": "\/build\/images\/karl-lofholm.png",
 		"outputAbbreviatedPath": "\/build\/images\/karl-lofholm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/0-grid.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 328889,
+		"initialSize": 264853,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/0-grid.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/0-grid.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/0.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 26454,
+		"initialSize": 261517,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/0.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/ida-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 182306,
+		"initialSize": 272409,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/ida-1.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/ida-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/ida-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 352311,
+		"initialSize": 351420,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/ida-2.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/ida-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/ida-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 428868,
+		"initialSize": 427809,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/ida-3.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/ida-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/lightwork-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 129056,
+		"initialSize": 128126,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/lightwork-1.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/lightwork-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/lightwork-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 289946,
+		"initialSize": 289099,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/lightwork-2.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/lightwork-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/lokalkompaniet-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 138639,
+		"initialSize": 137773,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/lokalkompaniet-1.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/lokalkompaniet-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/lokalkompaniet-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 47675,
+		"initialSize": 46755,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/lokalkompaniet-2.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/lokalkompaniet-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/lokalkompaniet-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 350036,
+		"initialSize": 349043,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/lokalkompaniet-3.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/lokalkompaniet-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/watcho-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 77889,
+		"initialSize": 76954,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/watcho-1.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/watcho-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/watcho-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 301594,
+		"initialSize": 300552,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/watcho-2.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/watcho-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/selected-work\/watcho-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 365655,
+		"initialSize": 364662,
 		"inputAbbreviatedPath": "\/build\/images\/selected-work\/watcho-3.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/selected-work\/watcho-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-0.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 115576,
+		"initialSize": 114700,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-0.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 238175,
+		"initialSize": 480915,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-1.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 105489,
+		"initialSize": 104600,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-2.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76985,
+		"initialSize": 76122,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-3.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 181502,
+		"initialSize": 180558,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-4.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 58897,
+		"initialSize": 57946,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-5.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 122172,
+		"initialSize": 121266,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-6.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/stena-line\/stenaline-7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 61152,
+		"initialSize": 60260,
 		"inputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-7.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/stena-line\/stenaline-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/0.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 133286,
+		"initialSize": 245523,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/0.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 99996,
+		"initialSize": 99127,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/1.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143106,
+		"initialSize": 142230,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/2.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 182532,
+		"initialSize": 181597,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/3.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 148774,
+		"initialSize": 148016,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/4.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 201531,
+		"initialSize": 200651,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/5.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/images\/uppsalahem\/6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 162227,
+		"initialSize": 161255,
 		"inputAbbreviatedPath": "\/build\/images\/uppsalahem\/6.jpg",
 		"outputAbbreviatedPath": "\/build\/images\/uppsalahem\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/build\/index.html": {
 		"fileType": 8192,
@@ -497,17 +497,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/build\/js\/main-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/js\/main-min.js",
-		"outputAbbreviatedPath": "\/build\/build\/js\/main-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"syntaxCheckerStyle": 0
 		},
 	"\/build\/selected-work.html": {
 		"fileType": 8192,
@@ -663,7 +652,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_components\/intro.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/intro.css",
@@ -683,7 +672,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_components\/layout.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/layout.css",
@@ -703,7 +692,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_components\/media.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/media.css",
@@ -723,7 +712,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_components\/project-list.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/project-list.css",
@@ -743,7 +732,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_components\/project-page.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/project-page.css",
@@ -763,7 +752,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_components\/typography.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/typography.css",
@@ -783,7 +772,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_frame\/header.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/header.css",
@@ -803,7 +792,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_frame\/main-footer.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/main-footer.css",
@@ -823,7 +812,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_mixins\/clearfix.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/clearfix.css",
@@ -843,7 +832,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_mixins\/grid.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/grid.css",
@@ -863,7 +852,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_mixins\/opacity.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/opacity.css",
@@ -883,7 +872,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/_mixins\/text-overflow.less",
 		"outputAbbreviatedPath": "\/less\/build\/css\/text-overflow.css",
@@ -903,7 +892,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/base.less",
 		"outputAbbreviatedPath": "\/build\/css\/base.css",
@@ -952,7 +941,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/mixins.less",
 		"outputAbbreviatedPath": "\/build\/css\/mixins.css",
@@ -972,7 +961,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/normalize.less",
 		"outputAbbreviatedPath": "\/build\/css\/normalize.css",
@@ -992,7 +981,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/print.less",
 		"outputAbbreviatedPath": "\/build\/css\/print.css",
@@ -1012,7 +1001,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/variables.less",
 		"outputAbbreviatedPath": "\/build\/css\/variables.css",
@@ -1025,6 +1014,27 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
+		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 0,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		}
 	},
 "hooks": [
@@ -1137,8 +1147,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -1147,6 +1165,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -1663,7 +1685,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,

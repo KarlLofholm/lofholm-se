@@ -466,6 +466,12 @@
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},
+	"\/build\/main-nav.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/main-nav.html",
+		"oF": 0
+		},
 	"\/build\/selected-work.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -788,16 +794,6 @@
 		"sI": 0,
 		"sM": 0,
 		"sU": 0
-		},
-	"\/less\/build\/css\/layout.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/less\/build\/css\/layout-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/less\/main.less": {
 		"aP": 1,

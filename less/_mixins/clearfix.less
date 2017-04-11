@@ -11,11 +11,12 @@
 // Source: http://nicolasgallagher.com/micro-clearfix-hack/
 
 .clearfix() {
-  &:before,
-  &:after {
+  &:after,
+  &:before {
     content: " "; // 1
     display: table; // 2
   }
+
   &:after {
     clear: both;
   }

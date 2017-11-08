@@ -13,12 +13,10 @@
 
     while (length--) {
         method = methods[length];
- 
+
         // Only stub undefined methods.
         if (!console[method]) {
             console[method] = noop;
         }
     }
-}());  
-
-
+}());

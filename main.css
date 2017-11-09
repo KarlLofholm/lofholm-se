@@ -89,7 +89,6 @@ dfn {
 }
 
 hr {
-  -webkit-box-sizing: content-box;
   box-sizing: content-box;
   height: 0
 }
@@ -212,14 +211,12 @@ button[disabled], html input[disabled] {
 }
 
 input[type=checkbox], input[type=radio] {
-  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   padding: 0
 }
 
 input[type=search] {
   -webkit-appearance: textfield;
-  -webkit-box-sizing: content-box;
   box-sizing: content-box
 }
 
@@ -243,7 +240,6 @@ table {
 }
 
 * {
-  -webkit-box-sizing: border-box;
   box-sizing: border-box
 }
 
@@ -486,6 +482,12 @@ img.fixed-size {
   text-align: center
 }
 
+@media (max-device-width:375px) {
+  .project-list .project {
+    margin-bottom: 150px
+  }
+}
+
 .project-list .project .img-link {
   position: relative;
   display: block
@@ -559,6 +561,12 @@ img.fixed-size {
   margin: 150px 0
 }
 
+@media (max-width:375px) {
+  .project-page figure {
+    margin: 100px 0
+  }
+}
+
 .project-page figcaption {
   margin: 20px auto;
   font-style: italic;
@@ -567,6 +575,12 @@ img.fixed-size {
 
 .project-page .figure-group {
   margin: 150px 0
+}
+
+@media (max-width:375px) {
+  .project-page .figure-group {
+    margin: 100px 0
+  }
 }
 
 .project-page .figure-group figure {
@@ -608,7 +622,6 @@ img.fixed-size {
   * {
     background: 0 0!important;
     color: #000!important;
-    -webkit-box-shadow: none!important;
     box-shadow: none!important;
     text-shadow: none!important
   }

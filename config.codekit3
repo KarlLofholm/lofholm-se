@@ -1476,6 +1476,14 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
+    "\/source\/kit\/_pages\/kry.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/kry.html",
+      "oF" : 0
+    },
     "\/source\/kit\/_pages\/operan.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1868,7 +1876,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "meme-krieger",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 718015297.84925699
+    "lastBuiltDate" : 718999091.21836805
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
